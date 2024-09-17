@@ -43,9 +43,6 @@ const CustomerReviews = () => {
                             <h2 className="card-title">{datas.name}</h2>
                             <p>{datas.review}</p>
                             <Rating style={{ maxWidth: 250 }} readOnly={true} value={datas.rating} />
-                            <div className="card-actions justify-end">
-                                <button className="btn btn-primary">Buy Now</button>
-                            </div>
                     </div>
                 </div>
             </div>      
