@@ -1,0 +1,35 @@
+[
+      {
+        "name": "John Doe",
+        "review": "The service was excellent and exceeded my expectations!",
+        "rating": 3,
+        "image": "https://i.ibb.co/QHPT0g7/human-male-2.jpg"
+      },
+      {
+        "name": "Jane Smith",
+        "review": "Great product quality and fast delivery. Highly recommend!",
+        "rating": 4.5,
+        "image": "https://i.ibb.co/S0HZsZ2/human-2.jpg"
+      },
+      {
+        "name": "Mike Johnson",
+        "review": "Customer support was very helpful and resolved my issue quickly.",
+        "rating": 4,
+        "image": "https://i.ibb.co/Pwj0bdn/human-1.jpg"
+      },
+      {
+        "name": "Emily Davis",
+        "review": "Amazing experience! I will definitely be back for more.",
+        "rating": 5,
+        "image": "https://i.ibb.co/PmtGgSH/human-female-3.jpg"
+      },
+      {
+        "name": "Rozerd Lovis",
+        "review": "experience will definitely be back for more.",
+        "rating": 4,
+        "image": "https://i.ibb.co/68jdzQS/human-male-5.jpg"
+      }
+
+    ]
+
+  
